@@ -1,0 +1,53 @@
+export default [
+    {
+        year: 'Today', 
+        title: 'FullStack Developer Engineer',
+        company: 'SpaceDEV',
+        link:'https://www.spacedev.io/',
+        location: 'Remote, Uruguay',  
+        duration: 'November 2022 - Current', 
+        description1: 'Full Stack developer working with React, Node.js, Nest.js and Vue. Specialized in blockchain and other cutting-edge tecnologies.',
+        description2: 'Bussinees and academical research for blockchain opportunities areas.',
+    },
+    {
+        year: 'Today', 
+        title: 'Field Application Engineer',
+        company: 'SeeedStudio',
+        link:'https://www.seeedstudio.com/about-us/',
+        location: 'Remote, China',  
+        duration: 'August 2021 - Current', 
+        description1: 'Helium’s Hardware tech support. Developed technical documentation related to mining hard- ware for the cryptocurrency, Helium. The documentation includes complete guides for trou- bleshooting and online following.',
+        description2:'Blockchain troubleshooting. Field Application guide for users of SenseCAP products to mine cryptocurrency, subsidizing and helping with the understanding and optimizing the blockchain.'
+    },
+    {
+        year: '2021', 
+        title: 'Field Application Engineer',
+        company: 'SeeedStudio',
+        link:'https://www.seeedstudio.com/',
+        location: 'Remote, US',  
+        duration: 'December 2019 - August 2021', 
+        description1: 'Electronics and programming troubleshooting. Field application support and troubleshooting for international clients developing, testing, and guiding the client through their projects using Seeed products.',
+        description2: 'Project Analyst technical support. Electronic development tools analysis from international clients interested in industrial scaling the products for worldwide distribution, including PCB layout quality, embedded implementation, firmware scalability, and certifications for safe device distribution, such as RoHS.',
+    },
+    {
+        year: '2019', 
+        title: 'Hardware Engineer and Project Manager',
+        company: 'MBM TEAM',
+        link:'http://www.mcmteam.com/',
+        location: 'Puebla, Mexico',  
+        duration: 'March 2019 - November 2019', 
+        description1: 'Electronic PCB Desing. Layout schematic and design for an industrial printed circuit board utilizing Altium designer software. The designs implemented were for agro-industry projects that included long-range communication protocols, control models, and human-machine interfaces using the ARM architectures family microcontrollers.',
+        description2: 'Computer Vision. Partaken in developing and implementing lite computer vision algorithms on python that define the irrigation process for optimal agriculture. Project coordination. Coordination and budget manager for the startup project leading a fifteen engineers team.',
+    },
+    {
+        year: '2017', 
+        title: 'Hardware Engineer',
+        company: 'Instituto de Diseño e Innovacion Tecnologica',
+        link:'https://www.iberopuebla.mx/site-idit/index.php/home',
+        location: 'Puebla, Mexico',  
+        duration: 'January 2019 - February 2019', 
+        description1: 'Electronic Design. Electronic design for the automotive industry. Development and fabrication of circuits to cover innovation areas.',
+        description2: 'Embedded programming. Microcontroller programming and bootloader design using C/CPP language for embedded systems guided by the hierarchical principle of embedded systems.',
+    },
+
+]
